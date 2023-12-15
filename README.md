@@ -1,2 +1,3 @@
-# -mixi
-이용 약관 관련 / ToS
+# 믹시 - mixi
+
+TERMS OF SERVICE
